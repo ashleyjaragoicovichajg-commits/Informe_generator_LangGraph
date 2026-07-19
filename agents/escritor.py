@@ -26,7 +26,7 @@ def agente_escritor(state: InspectorState) -> Dict:
     secciones_propuestas = estructura.get("secciones", [])
 
     prompt_sistema = (
-        "Eres un compilador experto en LaTeX y maquetador de informes de ingeniería eléctrica. "
+        "Eres un compilador experto en LaTeX y maquetador de informes de ingeniería. "
         "Tu única tarea es transformar el texto y la estructura proporcionada en un código de LaTeX "
         "completamente limpio, válido y listo para compilar. No agregues introducciones ni texto fuera del bloque de código."
     )

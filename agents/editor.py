@@ -29,7 +29,7 @@ def agente_editor(state: InspectorState) -> Dict:
     
     # 2. Diseñar el Prompt Técnico para DeepSeek
     prompt_sistema = (
-        "Eres un Ingeniero Eléctrico Supervisor y Auditor Técnico experto. Tu trabajo es consolidar "
+        "Eres un Ingeniero Supervisor y Auditor Técnico experto. Tu trabajo es consolidar "
         "las notas de campo de una inspección, eliminar redundancias, corregir términos mal transcritos, "
         "y estructurar un informe técnico profesional y formal."
     )
