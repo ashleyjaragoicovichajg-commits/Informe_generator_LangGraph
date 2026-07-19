@@ -1,0 +1,27 @@
+# Entornos virtuales
+venv/
+.venv/
+env/
+
+# Variables de entorno y llaves (¡Básico!)
+.env
+config.py
+secrets.json
+Laboratorio.ipynb
+
+# Carpetas de pruebas locales o borradores
+Laboratorio/
+tests_locales/
+recursos/
+
+# Archivos pesados o multimedia
+*.jpeg
+*.jpg
+*.png
+*.ogg
+*.mp3
+output/
+
+# Cache de Python
+__pycache__/
+*.pyc
