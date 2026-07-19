@@ -1,3 +1,4 @@
+```
 informe_inspector/
 │
 ├── state.py               # Definición del estado compartido del grafo
@@ -9,3 +10,4 @@ informe_inspector/
     ├── transcriptor.py    # Nodo del Agente Transcriptor [a]
     ├── editor.py          # Nodo del Agente Editor [b]
     └── escritor.py        # Nodo del Agente Escritor [c]
+```
